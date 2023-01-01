@@ -26,8 +26,11 @@ DOMAIN-SUFFIX,youtube-nocookie.com,Google
 DOMAIN-SUFFIX,youtube.com,Google
 DOMAIN-SUFFIX,yt.be,Google
 DOMAIN-SUFFIX,ytimg.com,Google
+DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-KEYWORD,www.google.,GoogleSearch
 DOMAIN-KEYWORD,gmail,Google
 DOMAIN-KEYWORD,google,Google
+DOMAIN-KEYWORD,pureapk
+DOMAIN-KEYWORD,apkpure
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
