@@ -1,2 +1,6 @@
 # > wificalling
-DOMAIN-SUFFIX,3gppnetwork.org
+IP-CIDR,66.94.0.0/19
+IP-CIDR,206.29.177.36/32
+IP-CIDR,208.54.0.0/16
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,pub.3gppnetwork.org
